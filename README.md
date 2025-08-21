@@ -1,4 +1,4 @@
-# 🚀 Web3Builders ERC721A based NFT Contract
+# 🚀  ERC721A based NFT Contract
 
 A gas-optimized ERC721A based NFT smart contract with a secure refund mechanism, limited minting, and owner-controlled withdrawal.
 
